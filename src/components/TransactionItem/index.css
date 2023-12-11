@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.trans-item-container {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #cbd5e1;
+  padding-left: 20px;
+  border-top: none;
+}
+
+.trans-item {
+  font-size: 20px;
+  color: #475569;
+  font-weight: normal;
+  padding-right: 10px;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+}
+
+.delete-icon {
+  height: 30px;
+}
